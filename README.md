@@ -1,4 +1,5 @@
-MyWork
+Cocos2d-x/Cocos2d-JS 3新特性
 ======
 
-My daily work
+* [Cocos2d-JS](Cocos2d-JS/README.md)
+* [Cocos2d-x](Cocos2d-x/README.md)
